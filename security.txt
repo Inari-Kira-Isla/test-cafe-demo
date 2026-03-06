@@ -1,0 +1,4 @@
+Contact: mailto:test@cloudpipe.ai
+Expires: 2027-03-06T00:00:00.000Z
+Preferred-Languages: zh-TW, en
+Canonical: https://test-cafe-demo.vercel.app/.well-known/security.txt

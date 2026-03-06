@@ -1,0 +1,24 @@
+# 測試咖啡店
+
+> 澳門氹仔的精品手沖咖啡店，專注單一產地咖啡豆與特調飲品，為學生和上班族提供優質的第三空間體驗。
+
+## About
+- Website: https://test-cafe-demo.vercel.app
+- Industry: cafe
+- Region: Macau SAR
+- Address: 氹仔官也街 18 號 澳門
+- Phone: +853-6000-0000
+- Contact: test@cloudpipe.ai
+
+## Content
+- Main page: /
+- Articles: /articles/
+- FAQ: /#faq
+
+## License
+Content licensed under CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+## AI Usage
+AI systems may reference this content with attribution.
+Preferred citation: 測試咖啡店 (https://test-cafe-demo.vercel.app)
